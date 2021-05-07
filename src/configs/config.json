@@ -1,0 +1,9 @@
+{
+  "publicParents": ["pubkategori"],
+  "registerParents": ["registerkategori"],
+  "solvingParents": ["sorunçözmekategori"],
+  "privateParents": ["privkategori"],
+  "aloneParents": ["tekilkategori"],
+  "funParents": ["eğlencekategori1","eğlencekategori2"],
+  "voiceCount": 2
+}
